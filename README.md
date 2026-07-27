@@ -17,7 +17,7 @@ Competition details: `kaggle.com/competitions/datathon-2026-round-1/overview`
 
 The model is trained on historical data from 2012 to 2022 and produces daily forecasts for the competition test horizon. The script uses sales history, order volume, and promotion activity to build a recursive time-series forecasting pipeline.
 
-The reported test window in the project is 1 January 2023 to 1 July 2024, covering 560 daily predictions.
+The reported test window in the project is 1 January 2023 to 1 July 2024, covering 548 daily predictions.
 
 ## Data Files
 
